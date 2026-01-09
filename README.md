@@ -132,9 +132,3 @@ Deep Learning, Computer Vision, Explainable AI, Mobile AI Deployment
 
 This project is intended for **academic and research purposes only**.  
 Please cite the original datasets and libraries used.
-
----
-
-## 🎓 One-Line Project Summary
-
-*An explainable, cross-domain tomato leaf disease detection system with a deployed student model optimized for offline mobile inference.*
