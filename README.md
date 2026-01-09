@@ -1,5 +1,6 @@
 # AI-AAT
-## 🍅 Tomato Leaf Disease Detection & Mobile Deployment
+## 🍅 Tomato Leaf Disease Detection & Mobile Deployment (Deployable Deep Learning for Cross-Domain Plant Leaf Disease Detection via Ensemble Learning, Knowledge Distillation, and
+Quantization)
 
 **AI-AAT** is a deep learning–based tomato leaf disease detection system designed with  
 **cross-domain robustness**, **explainable AI**, and **efficient mobile deployment** in mind.
